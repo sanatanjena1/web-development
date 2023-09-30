@@ -1,1 +1,1 @@
-// alert("Welcome to sigma web development")
+alert("Welcome to sigma web development")
